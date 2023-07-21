@@ -37,3 +37,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/DimasPr2302/Form-validation-example-1/blob/e52bb5d46740f4682a44ae63587c1b71e3f67676/unfilled-password.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/DimasPr2302/Form-validation-example-1/blob/e52bb5d46740f4682a44ae63587c1b71e3f67676/unfilled-password.png">
 </picture>
+
+### Password doesn't match
+- This is the display when password is doesn't match
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DimasPr2302/Form-validation-example-1/blob/babcd6aeca0e67a81bcee55118c0ca4c1ed29c3a/unmatch-password.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DimasPr2302/Form-validation-example-1/blob/babcd6aeca0e67a81bcee55118c0ca4c1ed29c3a/unmatch-password.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/DimasPr2302/Form-validation-example-1/blob/babcd6aeca0e67a81bcee55118c0ca4c1ed29c3a/unmatch-password.png">
+</picture>
