@@ -1,4 +1,4 @@
-# Form-validation-example-1
+# Form-validation-example-1 [Client Side]
 > This is Form Validation example using HTML, CSS &amp; JS
 
 ## Feature of This Content
